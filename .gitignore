@@ -1,0 +1,8 @@
+# Exclude all .zip files
+*.zip
+
+# Exclude all __pycache__ folders
+__pycache__/
+
+# Exclude all pickle files
+*.pkl
